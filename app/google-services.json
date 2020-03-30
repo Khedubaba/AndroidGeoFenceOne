@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "157477330559",
+    "firebase_url": "https://androidgeofenceone.firebaseio.com",
+    "project_id": "androidgeofenceone",
+    "storage_bucket": "androidgeofenceone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157477330559:android:44dfa12c17258af031294a",
+        "android_client_info": {
+          "package_name": "com.codellion.androidgeofenceone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "157477330559-dno2tgaf7u9d3r64lmkll1b3fjsg8q57.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codellion.androidgeofenceone",
+            "certificate_hash": "baaee9045d7cfb15e66c2cc2754fbfadff72b0c7"
+          }
+        },
+        {
+          "client_id": "157477330559-hqmek4gjei8mq91ir60fhvhllp0rcbn6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJLJho9DbkgsV5iJH6rupqZeYLRs9ZozQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "157477330559-hqmek4gjei8mq91ir60fhvhllp0rcbn6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
